@@ -35,5 +35,3 @@ python pingPong.py
 ## Exit the Game Script:
 Exit the Game: Close the game window not the webcame
 
-## Demo
-

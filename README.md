@@ -3,7 +3,7 @@
 Gesture Pong is an interactive hand gesture-based version of the classic Pong game, where the player uses hand movements to control the paddle. The game uses OpenCV for video capture, MediaPipe for hand detection, and Pygame for the game display and logic. The objective is to use your hand to move the paddle and hit the ball, aiming to score points while competing against the AI
 
 ## Demo
-[Watch the Demo Video on YouTube]([https://www.youtube.com/watch?v=Y5yXIvSMFpk](https://youtu.be/tAcPAAtNxrw))
+[Watch the Demo Video on YouTube](https://youtu.be/tAcPAAtNxrw)
 
 ## Installation
 
